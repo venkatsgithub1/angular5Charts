@@ -1,0 +1,18 @@
+1. create a new project and navigate to charts:
+ng new charts && cd charts
+
+2. create a new service:
+ng generate|g service weather
+
+3. install chart.js and save it as a dependency in package json file (--save):
+npm install chart.js --save
+
+4. use http client to call api url.
+
+5. map service to app.module.ts.
+    add it as a provider.
+    import http client module.
+
+6. Navigate to app component file and import weather service.
+    using dependency injection create instance.
+    import chart js.
