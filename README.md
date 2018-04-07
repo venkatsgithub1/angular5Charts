@@ -1,3 +1,13 @@
+<h1>Angular 5 charts example with chart.js</h1>
+
+<img src="https://github.com/venkatsgithub1/angular5Charts/blob/master/images_for_md/angularchart_chart.js.png"/>
+
+<p>Removed node_modules directory due to huge number of files.</p>
+
+<p>Steps are present in steps.txt file.</p>
+
+<p>Chart.js link:<a href="http://www.chartjs.org">Chart.js</a></p>
+
 # Charts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
