@@ -11,7 +11,7 @@
 <h2>Data for angular to create chart</h2>
 
 <h3>World Bank Climate Data API</h3>
-<a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api">Details about API</a>
+<a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api">Details about API</a><br/>
 <a href="http://climatedataapi.worldbank.org/climateweb/rest/v1/country/mavg/tas/1980/1999/ind.json">Data</a>
 
 <p>Angular http client module is used to grab data from API in Angular service.</p>
